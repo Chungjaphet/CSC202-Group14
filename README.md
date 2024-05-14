@@ -17,6 +17,14 @@ We have two methods
 
 All shapes have a unique class and in each class contain a uniqe code assigned to them
 
+We use the key word extends which signifies inheritance.
+INHERITANCE IS USED IN THE FOLLOWING CLASSES
+1. TWODIMENSIONALSHAPES TO INHERIT THE PROPERTIES IN THE SHAPE CLASS
+2. THREEDIMENSIONALSHAPES TO INHERIT THE PROPERTIES IN THE SHAPE CLASS
+AND FOR THE 2D SHAPES
+The extends key word is used to inherit the properties in the 2dimentsionalclass
+ FOR THE 3D SHAPES
+The extends key word is used to inherit the properties in the 3dimentsionalclass
 ** In the Main Class**
 we use the if...else if statement that calculate the Area or Volume of the shape you selected 
 
